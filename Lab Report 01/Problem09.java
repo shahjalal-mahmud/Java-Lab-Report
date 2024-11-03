@@ -6,6 +6,6 @@ public class Problem09 {
         num3 = 9.8;
 
         double average = (num1 + num2 + num3) / 3;
-        System.out.println("The maximum number is: " + average);
+        System.out.println("Average: " + average);
     }
 }

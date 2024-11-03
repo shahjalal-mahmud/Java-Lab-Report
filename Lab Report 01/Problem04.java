@@ -1,8 +1,8 @@
 public class Problem04 {
     public static void main(String[] args) {
-        int celcius = 27;
-        int fahrenheit;
-        fahrenheit = ((celcius/5)*9) + 32;
+        double celcius = 27;
+        double fahrenheit;
+        fahrenheit = ((celcius*9)/5) + 32;
         System.out.println("Fahrenheit: " + fahrenheit);
     }
 }
