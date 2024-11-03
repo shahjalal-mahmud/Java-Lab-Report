@@ -10,8 +10,8 @@ public class Problem02 {
         sub = a - b;
         mul = a * b;
         div = a / b;
-        System.out.println("Addtion: " + add);
-        System.out.println("Substraction: " + sub);
+        System.out.println("Addition: " + add);
+        System.out.println("Subtraction: " + sub);
         System.out.println("Multipication: " + mul);
         System.out.println("Division: " + div);
     }

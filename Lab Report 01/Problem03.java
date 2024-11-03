@@ -1,8 +1,7 @@
 public class Problem03 {
     public static void main(String[] args) {
-        int celcius = 27;
-        int fahrenheit;
-        fahrenheit = ((celcius/5)*9) + 32;
-        System.out.println("Fahrenheit: " + fahrenheit);
+        double radius = 7.5;
+        double area = Math.PI * radius * radius;
+        System.out.println("Area of Circle: " + area);
     }
 }
