@@ -43,12 +43,3 @@ This lab project covers a series of Java programs demonstrating fundamental conc
 
 ---
 
-### Problem 01: Hello, World!
-**Objective**: Print "Hello, World!" to introduce console output.
-
-```java
-public class Problem01 {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
