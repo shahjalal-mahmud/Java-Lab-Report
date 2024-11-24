@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem08 {
     static void mulTable(int n){
         for(int i = 1; i <=10; i++){

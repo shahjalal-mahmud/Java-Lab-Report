@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem09 {
     static int countVowels(String s){
         int count = 0;

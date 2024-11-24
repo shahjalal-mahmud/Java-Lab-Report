@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem04 {
     static boolean is_Leap(int y){
         if ((y % 4 == 0 && y % 100 != 0) || (y % 400 == 0)) {

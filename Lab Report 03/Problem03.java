@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem03 {
     static int Largest(int a, int b, int c) {
         if (a > b) {

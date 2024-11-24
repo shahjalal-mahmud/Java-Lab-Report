@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem07 {
     static int sumDigit(int n){
         int sum = 0;

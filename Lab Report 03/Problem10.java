@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem10 {
     static void calculate(int a, int b, char c){
         double result = 0;

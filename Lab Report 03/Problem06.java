@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Problem06 {
     static boolean is_Prime(int n){
         if (n <=1) {
